@@ -1,4 +1,4 @@
-```markdown
+
 # CertScanGo
 
 CertScanGo is a Python command-line application designed to connect to OpenShift clusters, scan ConfigMaps and Secrets for SSL/TLS certificates, analyze their expiration dates, and provide detailed results through colorized terminal output and JSON export functionality. Additionally, it offers a frontend interface for managing and viewing scan results, using a modern stack built with ReactJS, Express, and MongoDB.
@@ -90,4 +90,4 @@ CertScanGo provides the following functionalities:
 The project is proprietary. All rights reserved.
 © 2024 CertScanGo.
 ```
-```
+
